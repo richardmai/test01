@@ -12,6 +12,7 @@
 		185DA11B1CBA80C3006972C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185DA1191CBA80C3006972C7 /* Main.storyboard */; };
 		185DA11D1CBA80C3006972C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 185DA11C1CBA80C3006972C7 /* Assets.xcassets */; };
 		185DA1201CBA80C3006972C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185DA11E1CBA80C3006972C7 /* LaunchScreen.storyboard */; };
+		18C3B0DD1CBC043D0009E16D /* Storyboard03.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18C3B0DC1CBC043D0009E16D /* Storyboard03.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		185DA11C1CBA80C3006972C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		185DA11F1CBA80C3006972C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		185DA1211CBA80C3006972C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18C3B0DC1CBC043D0009E16D /* Storyboard03.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard03.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				185DA1151CBA80C3006972C7 /* AppDelegate.swift */,
 				185DA1171CBA80C3006972C7 /* ViewController.swift */,
 				185DA1191CBA80C3006972C7 /* Main.storyboard */,
+				18C3B0DC1CBC043D0009E16D /* Storyboard03.storyboard */,
 				185DA11C1CBA80C3006972C7 /* Assets.xcassets */,
 				185DA11E1CBA80C3006972C7 /* LaunchScreen.storyboard */,
 				185DA1211CBA80C3006972C7 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				185DA1201CBA80C3006972C7 /* LaunchScreen.storyboard in Resources */,
 				185DA11D1CBA80C3006972C7 /* Assets.xcassets in Resources */,
+				18C3B0DD1CBC043D0009E16D /* Storyboard03.storyboard in Resources */,
 				185DA11B1CBA80C3006972C7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +293,7 @@
 				185DA1261CBA80C3006972C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
